@@ -1,5 +1,8 @@
-a = int(input())
-b = int(input())
+#Створіть скрипт, який би запитував у користувача значення змінної a, та змінної b,
+#і після цього вивів на екран результати арифметичних операцій, над цими змінними.
+
+a = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
 print (a + b)
 print (a - b)
 print (a * b)
